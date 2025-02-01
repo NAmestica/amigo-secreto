@@ -33,7 +33,7 @@ function asignarElemento(elemento, texto){
 }
 function sortearAmigo(){
     if (listaAmigos.length == 0){
-        asignarElemento("#resultado",`El amigo secreto sortedo es: ${listaAmigos} agregar nombres por favor`);
+        asignarElemento("#resultado",`Por favor, inserte un nombre.`);
     }else{
     let numeroGenerado = Math.floor(Math.random() * (listaAmigos.length));
     console.log(numeroGenerado);
@@ -47,7 +47,7 @@ function agregarAmigo(){
     let amigo = document.getElementById("amigo").value;
     console.log(amigo);
     if (amigo.indexOf(" ") > -1 || amigo == ''){
-        alert("Por favor, ingrese un nombre válido");
+        alert("Por favor, inserte un nombre.");
         asignarElemento("#resultado","");
 
     }
@@ -77,6 +77,3 @@ function limpiarCaja(){
     valorCaja.value = '';
 }
 
-
-
-//condicionesIniciales();
