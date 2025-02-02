@@ -12,7 +12,7 @@ Para ello, deberán ingresar los nombres en un campo de texto y agregarlos con u
 
 
   <h3><li>Validar datos de entrada.</li></h3>
-  <p>Si el campo de entrada de texto esta vacía o tiene un espacio , se le pedirá al usuario volver ingresar un dato válido, atraves de un mensaje en pantalla.</p>
+  <p>Si el campo de entrada de texto esta vacía o tiene un espacio , se le pedirá al usuario volver ingresar un dato válido, a través de un mensaje en pantalla.</p>
   <h3><li>Visualizar lista.</li></h3>
   <p>Una vez agregado el amigo, se podrá visualizar una lista de los amigos agregados debajo de la zona de ingreso de datos.</p>
   <h3><li>Sortear amigo.</li></h3>
