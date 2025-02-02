@@ -17,7 +17,7 @@ Para ello, deberán ingresar los nombres en un campo de texto y agregarlos con u
   <p>Una vez agregado el amigo, se podrá visualizar una lista de los amigos agregados debajo de la zona de ingreso de datos.</p>
   <h3><li>Sortear amigo.</li></h3>
   <p>Presionando el boton de sorteo, podremos sortear al azar un amigo de la lista que se agregó anteriormente.</br>
-mostrando el amigo seleccionado aleatoriamente.</p>
+Mostrando el amigo seleccionado aleatoriamente.</p>
 
 ![1](https://github.com/user-attachments/assets/5fc1c250-aef8-4703-aed6-f5267ef78442)
  
