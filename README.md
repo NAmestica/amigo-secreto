@@ -8,7 +8,7 @@ Para ello, deberán ingresar los nombres en un campo de texto y agregarlos con u
   <h3><li>Agregar amigos.</li></h3>
   <p>Donde podemos agregar amigos con un límite de 5.</p>
  
-![2](https://github.com/user-attachments/assets/cc6f8c7d-f1e2-466b-85e4-f178aecffc38)
+
 
 
   <h3><li>Validar datos de entrada.</li></h3>
@@ -19,6 +19,11 @@ Para ello, deberán ingresar los nombres en un campo de texto y agregarlos con u
   <p>Presionando el boton de sorteo, podremos sortear al azar un amigo de la lista que se agregó anteriormente.</br>
 Mostrando el amigo seleccionado aleatoriamente.</p>
 
-![1](https://github.com/user-attachments/assets/5fc1c250-aef8-4703-aed6-f5267ef78442)
+
  
 </ol>
+<h2>Capturas.</h2>
+
+![2](https://github.com/user-attachments/assets/cc6f8c7d-f1e2-466b-85e4-f178aecffc38)
+
+![1](https://github.com/user-attachments/assets/5fc1c250-aef8-4703-aed6-f5267ef78442)
